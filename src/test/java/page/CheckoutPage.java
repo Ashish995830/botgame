@@ -17,6 +17,7 @@ public class CheckoutPage extends Base {
 
 		WebElement productSize = driver.findElement(By.cssSelector("div#option-label-size-143-item-169"));
 		clickOnElement(productSize);
+		//hello
 
 	}
 
